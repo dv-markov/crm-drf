@@ -43,6 +43,8 @@ coverage.xml
 
 # Django stuff:
 *.log
+**/migrations/*
+!**/migrations/__init__.py
 
 # idea folder, uncomment if you don't need it
 .idea
