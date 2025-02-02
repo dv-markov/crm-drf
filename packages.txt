@@ -1,0 +1,1 @@
+pip install Django djangorestframework gunicorn django-cors-headers 'redis[hiredis]' django-redis Pillow "psycopg[binary]" python-dotenv
